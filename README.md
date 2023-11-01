@@ -11,6 +11,7 @@ Teamwork to create an honor board for Fablab Moscow students
 1) Генерация изображения в нейросети
 2) Обработка и перевод в битовый формат в программе Adobe Photoshop
 
+![image](портреты.jpg)
 
 Рисунок 1 - Обработанный портрет для печати
 
