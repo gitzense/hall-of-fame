@@ -1,7 +1,10 @@
 #include <Adafruit_NeoPixel.h>
+// #include "FastLED.h"
 
 #define LED_COUNT 4
 Adafruit_NeoPixel matrix = Adafruit_NeoPixel(LED_COUNT, MATRIX_PIN, NEO_GRB + NEO_KHZ800);
+// CRGB leds[LED_NUM];
+// byte counter;
 
 void setup() {
   // put your setup code here, to run once:
@@ -20,4 +23,6 @@ void loop() {
   // }
   // counter++;        // counter меняется от 0 до 255 (тип данных byte)
   // FastLED.show();
+
+  
 }
