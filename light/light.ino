@@ -14,4 +14,10 @@ void loop() {
     matrix.setPixelColor(i, 255, 255, 255);
     matrix.show();  
   }
+
+  // for (int i = 0; i < LED_NUM; i++) {
+  //   leds[i].setHue(counter + i * 255 / LED_NUM);
+  // }
+  // counter++;        // counter меняется от 0 до 255 (тип данных byte)
+  // FastLED.show();
 }
