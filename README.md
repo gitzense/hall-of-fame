@@ -31,3 +31,16 @@ https://github.com/gitzense/hall-of-fame/assets/144244924/b9aa5b27-b511-481d-8bc
 
 Рисунок Х - Конструкция подсветки 
 
+## CAD
+
+Верх и низ рамки
+![image](https://github.com/gitzense/hall-of-fame/assets/114235388/8a5c6d8a-6584-450a-8076-802e3b22fec1)
+
+Правая и левая часть рамки
+
+![image](https://github.com/gitzense/hall-of-fame/assets/114235388/30cfa486-f160-47d4-bd1e-f7e9285453db)
+
+
+
+
+
